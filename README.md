@@ -1,4 +1,4 @@
-# JQuant6
+# JQuant7
 
 # 项目迁移
 
